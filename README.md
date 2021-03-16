@@ -1,4 +1,4 @@
-<img align='right' src="./imgs/profile.png" width="250">
+<img align='right' src="./imgs/profile.png" width="300">
 
 ### Hi there 👋
 ## My name is Daniel Aparecido
