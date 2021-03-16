@@ -6,15 +6,12 @@
 - :star2: I’m currently **working** on [Máquina do Bem - BR](https://maquinadobem.myportfolio.com/maquina-do-bem)
 - :star2: I’m **working** with **PHP** 🐘 
 
-### Contact me
+### :phone: Contact me :phone:
 
-![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
- **=**
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-<br>
-**(11) 9 4719-8386 | Aparecido#0543I**
+[![whatsapp badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947198386)
+[![discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/488140411538243587)
 
-### My skills
+### 🚀 My skills 🚀
 
 <!--
 Passionate about technology since I was 16, studying more and more every day to be able to fight the statistics that were established for me.
