@@ -27,15 +27,11 @@
   ![linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![ubuntu badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!--
-Passionate about technology since I was 16, studying more and more every day to be able to fight the statistics that were established for me.
+### ⚡ Github stats ⚡
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oaparecido&hide=issues&show_icons=true&theme=dracula)
 
-:fist: **Black man!**
-
-**"Oppressed people cannot remain oppressed forever. The yearning for freedom eventually manifests itself."**
+### :fist: Phrase of my life :fist:
+**"Oppressed people cannot remain oppressed forever. <br> The yearning for freedom eventually manifests itself."**
 - Martin Luther King Jr.
-
-**oaparecido1/oaparecido1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+  
+:fist: **Black man!**
