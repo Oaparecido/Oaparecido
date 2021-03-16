@@ -1,14 +1,18 @@
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="150">
+<img align='right' src="./imgs/profile.png" width="150">
 
 ### Hi there 👋
 ## My name is Daniel Aparecido
 
 - :star2: I’m currently **working** on [Máquina do Bem - BR](https://maquinadobem.myportfolio.com/maquina-do-bem)
-- :star2: I’m currently **working** on **PHP** 🐘 
+- :star2: I’m **working** with **PHP** 🐘 
 
 ### Contact me
-![+55 (11) 9 4719-8386](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![name in discord: Aparecido#0543](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
+ **=**
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+<br>
+**(11) 9 4719-8386 | Aparecido#0543I**
 
 ### My skills
 
