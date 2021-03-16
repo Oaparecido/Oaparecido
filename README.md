@@ -1,4 +1,4 @@
-<img align='right' src="./imgs/profile.png" width="150">
+<img align='right' src="./imgs/profile.png" width="250">
 
 ### Hi there 👋
 ## My name is Daniel Aparecido
@@ -16,7 +16,7 @@
 
 ### My skills
 
-
+<!--
 Passionate about technology since I was 16, studying more and more every day to be able to fight the statistics that were established for me.
 
 :fist: **Black man!**
@@ -27,3 +27,4 @@ Passionate about technology since I was 16, studying more and more every day to 
 **oaparecido1/oaparecido1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
