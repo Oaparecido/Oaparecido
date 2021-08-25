@@ -3,8 +3,8 @@
 ### Hi there 👋
 ## My name is Daniel Aparecido
 
-- :star2: I’m currently **working** on [Máquina do Bem - BR](https://maquinadobem.myportfolio.com/maquina-do-bem)
-- :star2: I’m **working** with **PHP** 🐘 
+- :star2: I’m currently **working** on [Quinto Andar](https://www.quintoandar.com.br/)
+- :star2: I’m **working** with **JAVA** ☕️
 
 ### :phone: Contact me :phone:
 
